@@ -16,7 +16,6 @@ Cho file sv_tnut.sql (1.6MB)
 
 DEADLINE: 23H59:59 NGÀY 25/4/2025
 
-Ghi chú: Giải thích tại sao lại có SQL như vậy.
 
 # Bài Làm
 1. Các bước để import được dữ liệu trong sv_tnut.sql vào sql server
